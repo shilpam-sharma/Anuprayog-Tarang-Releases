@@ -1,0 +1,27 @@
+# Generated from citation.py - edit that, then run
+#   python -m citation --write
+# tests/scripts/test_citation.py fails if this file drifts.
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "AnuPrayog: Tarang"
+abstract: "A scientific data analysis and plotting application. Free to use, closed source. See the EULA for full terms."
+type: software
+authors:
+  - family-names: Sharma
+    given-names: Shilpam
+version: "2.6.0.0"
+date-released: "2026-01-01"
+url: "https://github.com/shilpam-sharma/Anuprayog-Tarang-Releases"
+repository-artifact: "https://github.com/shilpam-sharma/Anuprayog-Tarang-Releases/releases"
+keywords:
+  - "data analysis"
+  - "scientific plotting"
+  - "curve fitting"
+  - "spectroscopy"
+  - "X-ray diffraction"
+  - "Fourier transform"
+  - "Kramers-Kronig"
+  - "LabVIEW"
+  - "Python"
+  - "PySide6"
+license-url: "https://github.com/shilpam-sharma/Anuprayog-Tarang-Releases/blob/main/EULA.md"
