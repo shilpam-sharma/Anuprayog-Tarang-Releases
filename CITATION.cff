@@ -13,11 +13,14 @@ version: "2.7.0.0"
 date-released: "2026-08-12"
 url: "https://github.com/shilpam-sharma/Anuprayog-Tarang-Releases"
 repository-artifact: "https://github.com/shilpam-sharma/Anuprayog-Tarang-Releases/releases"
-doi: "10.5281/zenodo.21887356"
+doi: "10.5281/zenodo.21908710"
 identifiers:
   - type: doi
     value: "10.5281/zenodo.21887356"
     description: "Concept DOI - cites the software in general and resolves to the newest version."
+  - type: doi
+    value: "10.5281/zenodo.21908710"
+    description: "Version DOI - cites release 2.7.0.0 specifically."
 keywords:
   - "data analysis"
   - "scientific plotting"
