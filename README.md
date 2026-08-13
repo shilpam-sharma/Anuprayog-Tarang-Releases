@@ -19,9 +19,9 @@ The application itself offers ready-made citations under
 @software{sharma2026anuprayog,
   author  = {Sharma, Shilpam},
   title   = {{AnuPrayog: Tarang}},
-  version = {2.7.0.0},
+  version = {2.7.1.0},
   year    = {2026},
-  doi     = {10.5281/zenodo.21908710},
+  doi     = {10.5281/zenodo.21887356},
   url     = {https://github.com/shilpam-sharma/Anuprayog-Tarang-Releases},
   note    = {Free to use, closed source. See the EULA for full terms.}
 }
@@ -31,7 +31,6 @@ Two DOIs are available, and they answer different questions:
 
 - **10.5281/zenodo.21887356** — the *concept* DOI. Cites the software
   in general; always resolves to the newest version.
-- **10.5281/zenodo.21908710** — the *version* DOI for 2.7.0.0. Cites that release alone.
 
 If your results depend on the software's behaviour, cite the
 version DOI: it is the only identifier that says which build
