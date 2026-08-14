@@ -19,7 +19,7 @@ The application itself offers ready-made citations under
 @software{sharma2026anuprayog,
   author  = {Sharma, Shilpam},
   title   = {{AnuPrayog: Tarang}},
-  version = {2.7.1.0},
+  version = {2.7.1.1},
   year    = {2026},
   doi     = {10.5281/zenodo.21887356},
   url     = {https://github.com/shilpam-sharma/Anuprayog-Tarang-Releases},

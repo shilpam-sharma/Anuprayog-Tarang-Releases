@@ -1,12 +1,12 @@
 {
-  "title": "AnuPrayog: Tarang v2.7.1.0",
-  "description": "<p>AnuPrayog: Tarang &mdash; A scientific data analysis and plotting application.</p><p>Windows installer for version 2.7.1.0. Free to use, closed source. See the EULA for full terms.</p><p>Releases: <a href=\"https://github.com/shilpam-sharma/Anuprayog-Tarang-Releases/releases\">https://github.com/shilpam-sharma/Anuprayog-Tarang-Releases/releases</a></p>",
+  "title": "AnuPrayog: Tarang v2.7.1.1",
+  "description": "<p>AnuPrayog: Tarang &mdash; A scientific data analysis and plotting application.</p><p>Windows installer for version 2.7.1.1. Free to use, closed source. See the EULA for full terms.</p><p>Releases: <a href=\"https://github.com/shilpam-sharma/Anuprayog-Tarang-Releases/releases\">https://github.com/shilpam-sharma/Anuprayog-Tarang-Releases/releases</a></p>",
   "creators": [
     {
       "name": "Sharma, Shilpam"
     }
   ],
-  "version": "2.7.1.0",
+  "version": "2.7.1.1",
   "upload_type": "software",
   "keywords": [
     "data analysis",
@@ -24,7 +24,7 @@
   "license": "other-closed",
   "related_identifiers": [
     {
-      "identifier": "https://github.com/shilpam-sharma/Anuprayog-Tarang-Releases/releases/tag/v2.7.1.0",
+      "identifier": "https://github.com/shilpam-sharma/Anuprayog-Tarang-Releases/releases/tag/v2.7.1.1",
       "relation": "isSupplementTo",
       "scheme": "url"
     }
