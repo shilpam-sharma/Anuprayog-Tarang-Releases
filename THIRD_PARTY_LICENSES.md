@@ -57,6 +57,7 @@ unnecessarily was avoided rather than accepted.
 | charset-normalizer | 3.4.0 | MIT | Copyright (c) Ahmed TAHRI | [MIT](licenses/MIT.txt) |
 | trio | 0.28.0 | MIT (dual MIT/Apache-2.0) | Copyright (c) 2017 Nathaniel J. Smith and other contributors | [MIT](licenses/MIT.txt) |
 | zstandard | 0.23.0 | BSD-3-Clause | Copyright (c) Gregory Szorc | [BSD-3-Clause](licenses/BSD-3-Clause.txt) |
+| msgpack | 1.1.0 | Apache-2.0 | Copyright (C) 2008-2011 INADA Naoki | [Apache-2.0](licenses/Apache-2.0.txt) |
 | pytz | 2024.1 | MIT | Copyright (c) Stuart Bishop | [MIT](licenses/MIT.txt) |
 | python-dateutil | 2.8.2 | BSD-3-Clause (dual BSD/Apache-2.0) | Copyright (c) 2003-2011 Gustavo Niemeyer; (c) 2012-2014 dateutil contributors | [BSD-3-Clause](licenses/BSD-3-Clause.txt) |
 | packaging | 24.2 | Apache-2.0 (dual Apache-2.0/BSD-2-Clause) | Copyright (c) Donald Stufft and individual contributors | [Apache-2.0](licenses/Apache-2.0.txt) |
