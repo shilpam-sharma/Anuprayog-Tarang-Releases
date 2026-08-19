@@ -9,7 +9,7 @@ type: software
 authors:
   - family-names: Sharma
     given-names: Shilpam
-version: "2.8.0.0"
+version: "2.8.0.1"
 date-released: "2026-08-17"
 url: "https://github.com/shilpam-sharma/Anuprayog-Tarang-Releases"
 repository-artifact: "https://github.com/shilpam-sharma/Anuprayog-Tarang-Releases/releases"
